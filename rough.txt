@@ -1,0 +1,30 @@
+
+Literals
+
+Variables
+
+Keywords
+
+Primitive Datatypes
+
+Basic Operations With Strings
+
+Type Conversion - Int, Float, Str
+
+Type Conversion - Boolean
+
+Arithmetic & Assignment Operators
+
+Comparison & Logical Operators
+
+Associativity & Precedence Of Operators
+
+Printing To Console - The Print() Function
+
+Taking Input From User - The Input() Function
+
+Getting Started With PyCharm
+
+Numeric Functions
+
+Coding Exercises
